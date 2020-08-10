@@ -18,5 +18,5 @@ Idea and the plate image are from https://github.com/jsyqrt/games
 ##### To do:
 	- Implement game states (New game, Exit). Only "Play" state is available.
 
-![alt text](https://github.com/filasfilas/Puzzle-15/blob/master/Puzzle15.png?raw=true)
+![alt text](https://github.com/filasfilas/Puzzle-15/blob/master/images/screenshot.png?raw=true)
 
